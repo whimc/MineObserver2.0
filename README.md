@@ -20,6 +20,6 @@ by <a href="https://jmahajan117.github.io/"> Jay Mahajan </a>,
 
 
 ## Teaser
-[![]()](https://www.youtube.com/embed/nMVW_5S9xYU?autoplay=1)
+[![](https://img.youtube.com/vi//nMVW_5S9xYU/maxresdefault.jpg)](https://www.youtube.com/embed/nMVW_5S9xYU?autoplay=1)
             
 
