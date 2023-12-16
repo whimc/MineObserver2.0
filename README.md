@@ -20,6 +20,6 @@ by <a href="https://jmahajan117.github.io/"> Jay Mahajan </a>,
 
 
 ## Teaser
-![](./teaser.gif)]
+![](./teaser.gif)
             
 
