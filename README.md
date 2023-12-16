@@ -20,10 +20,6 @@ by <a href="https://jmahajan117.github.io/"> Jay Mahajan </a>,
 
 
 ## Teaser
-<iframe width="720" height="450" src="https://www.youtube.com/embed/nMVW_5S9xYU?autoplay=1" 
-            title="YouTube video player" 
-            frameborder="0"
-            playlist=""
-            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![]()](https://www.youtube.com/embed/nMVW_5S9xYU?autoplay=1)
             
 
