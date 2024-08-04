@@ -1,4 +1,13 @@
 # MineObserver 2.0
+<hr/>
+
+## News
+* [8.5.24] <b> Model weights are out! You can download them [here](https://drive.google.com/drive/folders/1toIWEnxExZ14gWBzeZq4y1w-7prnNIWD?usp=sharing)!</b>
+* [8.4.24] <b> After a long wait, we released our initial codebase!  </b>
+
+
+<hr/>
+
 
 
 Official Implementation of <b>"MineObserver 2.0: A Deep Learning & In-Game Framework for Assessing Natural Language Descriptions of Minecraft Imagery" </b>
@@ -22,4 +31,28 @@ by <a href="https://jmahajan117.github.io/"> Jay Mahajan </a>,
 ## Teaser
 ![](./teaser.gif)
             
+
+
+## Getting Started!
+<hr/>
+
+1. Started with the API folder. Get the API up and running. Test using postman if needed
+
+2. Build the Photographer plugin and deploy this into a Minecraft Java Server.
+
+3. Run the plugin's client on another computer with Minecraft & Python running. This is will control the computer and run the client automatically.
+
+4. (Optional) Run the dashboard to collect your observations.
+
+5. Use any account and call the photographer via the commands!
+
+
+
+## Things to do:
+- [X] Release ML Solution
+- [X] Release Dashboard Code
+- [X] Release Best Trained Weights
+- [ ] Release Safe Plugin Code
+- [ ] Release ML Training Code
+- [ ] If posible, release dataset
 

@@ -1,0 +1,15 @@
+'''
+CONFIG FOR API SERVER
+'''
+PORT = 8080
+HOST = "0.0.0.0"
+
+
+'''
+AI CONFIG
+'''
+SCORE_THRESHOLD = 0.5
+MODEL_PATH = "ImageCAP.pth"
+STOI_PATH = "stoi.pkl"
+ITOS_PATH = "itos.pkl"
+NUM_KEYWORDS = 1
