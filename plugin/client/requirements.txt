@@ -1,0 +1,5 @@
+pydirectinput
+python-socketio[asyncio_client]==4.6.1
+pywin32
+pillow
+rich

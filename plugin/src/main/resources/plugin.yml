@@ -1,0 +1,11 @@
+name: WHIMC-Photographer
+version: '${project.version}'
+author: Jack Henhapl
+main: edu.whimc.photographer.Photographer
+api-version: 1.18
+depend:
+  - WHIMC-Observations
+commands:
+  photographer:
+    permission: whimc-photographer.admin
+    description: "Base command of WHIMC-Photographer"
