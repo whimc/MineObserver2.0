@@ -55,5 +55,5 @@ by <a href="https://jmahajan117.github.io/"> Jay Mahajan </a>,
 - [X] Release Best Trained Weights
 - [X] Release Safe Plugin Code
 - [ ] Release ML Training Code
-- [ ] If posible, release dataset
+- [ ] If possible, release dataset
 
